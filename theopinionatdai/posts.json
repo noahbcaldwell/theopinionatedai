@@ -1,0 +1,10 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Test",
+            "metaDesc": "This is a test",
+            "link": "test"
+        }
+    ]
+}
